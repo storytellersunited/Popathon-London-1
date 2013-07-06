@@ -30,9 +30,10 @@ Repository for the prototypes created during the first Popathon in London on 11 
   - Enrica Colusso
   - Damian Soto
   - Fiona Furgusson
-  - Dinakaran Bose Prathap Chandran
+  - Prathap Chandran Dinakaran Bose
 * Popcorn Pirates
   - Thom Salmon
   - Alex Luk
   - Muhammad Khaleel Jaffer
-  - Fiona Ferguson
+  - Erinma
+  - Caroline
